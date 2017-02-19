@@ -1,1 +1,1 @@
-include ':basic', ':empty_activity', ':full_screen_activity', ':google_ads'
+include ':basic', ':empty_activity', ':full_screen_activity', ':google_ads', ':google_map'
