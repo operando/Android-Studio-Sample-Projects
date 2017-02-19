@@ -1,1 +1,1 @@
-include ':basic', ':empty_activity', ':full_screen_activity', ':google_ads', ':google_map', ':login_activity', ':master_detail_flow', ':navigation_drawer', ':scrolling_activity', ':settings_activity', ':tabbed_viewpager', ':tabbed_tablayout', ':tabbed_spinner'
+include ':basic', ':empty_activity', ':full_screen_activity', ':google_ads', ':google_map', ':login_activity', ':master_detail_flow', ':navigation_drawer', ':scrolling_activity', ':settings_activity', ':tabbed_viewpager', ':tabbed_tablayout', ':tabbed_spinner', ':basic_use_fragment'
