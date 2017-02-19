@@ -1,1 +1,1 @@
-include ':basic', ':empty_activity'
+include ':basic', ':empty_activity', ':full_screen_activity'
